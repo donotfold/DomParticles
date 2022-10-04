@@ -1,5 +1,5 @@
 # DOM Particles
-Want flying content on your site? Please don't... it's terrible. But still, if you really want, feel free to use my Particles script.
+Want flying content on your site? Use my Particles script.
 
 ## Init
 Add a DOM element to your first parameter (or a string to an id or something you can select with a querySelector). With the second parameter you can hack the defaults.
